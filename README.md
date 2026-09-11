@@ -1,6 +1,6 @@
-# 
+# Emotional Intelligence
 
-
+Understanding and managing your own emotions, and reading and responding well to other people's, at home and at work.
 
 Part of the [Yaaddi](https://github.com/yaaddi-courses) course catalog — a
 spaced-repetition flashcard course, ready to build and validate with the
