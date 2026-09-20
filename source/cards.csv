@@ -38,12 +38,12 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 37,8,multiple_choice,main,,What is a trigger?,Reliable setoff|Random mood|Weekly meeting,0,cards/card_37.png,,Spotting the pattern is the first step to managing a trigger.
 38,8,true_false,exercise,37,Spotting a trigger's pattern is the first step.,,true,,,
 39,8,select_blank,exercise,37,A trigger reliably sets off a strong ___.,reaction|meeting|calendar,0,,,
-40,8,multiple_choice,exercise,37,What makes something a trigger rather than a mood?,Repeats reliably|Is random|Never happens,0,,,
-41,9,true_false,preview,42,A blind spot is a weakness you cannot see.,,true,cards/card_41.png,,
+40,8,multiple_choice,exercise,37,What makes something a trigger rather than a mood?,Repeats reliably|Is random|Never happens,0,,,"A trigger is something that reliably causes a specific reaction, so the key characteristic is its predictability."
+41,9,true_false,preview,42,A blind spot is a weakness you cannot see.,,true,cards/card_41.png,,That's exactly right; it refers to an area of weakness or blind spot that you are unaware of yourself.
 42,9,multiple_choice,main,,What is a blind spot?,Unseen weakness|Known strength|Random guess,0,,,"A blind spot is a weakness you genuinely can't see in yourself — which is exactly why honest outside feedback matters, since it reveals gaps you'd otherwise miss."
-43,9,true_false,exercise,42,Outside feedback can reveal a blind spot.,,true,,,
-44,9,select_blank,exercise,42,A blind spot is a weakness you cannot ___.,see|fix instantly|avoid,0,,,
-45,9,multiple_choice,exercise,42,Why does outside feedback matter here?,Reveals gaps|Speeds work|Saves money,0,,,
+43,9,true_false,exercise,42,Outside feedback can reveal a blind spot.,,true,,,"Because we often have unconscious biases, someone else's perspective is necessary to point out what we overlook about ourselves."
+44,9,select_blank,exercise,42,A blind spot is a weakness you cannot ___.,see|fix instantly|avoid,0,,,The definition of a blind spot is precisely a weakness that you are unable to see or recognize in yourself.
+45,9,multiple_choice,exercise,42,Why does outside feedback matter here?,Reveals gaps|Speeds work|Saves money,0,,,Outside feedback is crucial because it shines a light on those gaps in your self-awareness that you simply cannot detect on your own.
 46,10,true_false,preview,47,Journaling regularly helps you notice patterns.,,true,cards/card_46.png,,"Writing consistently builds a cumulative record of your thoughts and experiences, making it much easier to spot recurring themes or behavioral patterns over time."
 47,10,multiple_choice,main,,What does regular journaling help you notice?,Patterns|Your schedule|Your inbox,0,,,Writing regularly about your feelings and reactions helps you notice patterns you'd otherwise miss in the moment.
 48,10,true_false,exercise,47,Journaling can reveal patterns missed in the moment.,,true,,,"When you write things down later, you gain distance from the event, allowing you to analyze entries and connect dots that felt confusing while they were happening."
