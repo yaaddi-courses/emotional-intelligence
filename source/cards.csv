@@ -1,15 +1,15 @@
 id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,explanation
-1,1,true_false,preview,2,Emotional intelligence involves managing emotions.,,true,,,
+1,1,true_false,preview,2,Emotional intelligence involves managing emotions.,,true,,,True. Emotional intelligence includes managing your own emotions as well as reading other people's.
 2,1,multiple_choice,main,,What does emotional intelligence involve?,Managing emotions|Memorizing facts|Solving equations,0,,,"EQ means noticing, understanding, and managing emotions — in yourself and in other people."
-3,1,true_false,exercise,2,Emotional intelligence includes understanding other people's emotions.,,true,,,
-4,1,select_blank,exercise,2,"EQ involves noticing, understanding, and ___ emotions.",managing|ignoring|hiding,0,,,
-5,1,multiple_choice,exercise,2,Whose emotions does EQ cover?,Both|Just yours|Just others,0,,,
+3,1,true_false,exercise,2,Emotional intelligence includes understanding other people's emotions.,,true,,,"True. It includes understanding what other people feel, not only your own emotions."
+4,1,select_blank,exercise,2,"EQ involves noticing, understanding, and ___ emotions.",managing|ignoring|hiding,0,,,"EQ is noticing, understanding and managing emotions: first see the feeling, then make sense of it, then handle it."
+5,1,multiple_choice,exercise,2,Whose emotions does EQ cover?,Both|Just yours|Just others,0,,,EQ covers both your own emotions and other people's.
 6,2,true_false,preview,7,Self-awareness is one of the four EQ domains.,,true,,,"Self-awareness is one of the core domains because it involves understanding your own emotions and strengths. Time management is a practical skill you can learn, but it isn't considered a primary EQ domain."
 7,2,multi_select,main,,Pick the four EQ domains.,Self-awareness|Self-management|Social awareness|Relationship mgmt|Time management,0|1|2|3,,,"""Time management"" is a useful skill but not one of Goleman's four EQ domains."
 8,2,true_false,exercise,7,Multitasking is one of the four EQ domains.,,false,,,"Multitasking is actually inefficient and stressful for the brain; it’s not recognized as an emotional intelligence domain. The four domains focus on understanding and managing emotions, not task switching."
 9,2,select_blank,exercise,7,There are ___ EQ domains in total.,four|two|ten,0,,,There are four key EQ domains that help us understand how we interact with ourselves and others. These domains provide a framework for emotional growth.
 10,2,multiple_choice,exercise,7,Which domain covers handling relationships?,Relationship mgmt|Self-awareness|Neither,0,,,"Relationship management is the domain specifically dedicated to handling interactions, empathy, and building rapport with other people. Self-awareness focuses inward on understanding yourself."
-11,3,true_false,preview,12,"EQ tends to predict teamwork, not raw IQ.",,true,,,
+11,3,true_false,preview,12,"EQ tends to predict teamwork, not raw IQ.",,true,,,True. How well people read and manage emotions tends to shape teamwork more than raw intelligence does.
 12,3,select_blank,main,,___ predicts teamwork; IQ predicts problem-solving.,EQ|IQ|GPA|EI,0,,,IQ predicts raw problem-solving ability; EQ predicts how well you work with others and handle pressure.
 13,3,true_false,exercise,12,IQ and EQ predict the exact same outcomes.,,false,,,"They tend to predict different kinds of success, not the same thing."
 14,3,select_blank,exercise,12,IQ tends to predict raw ___ ability.,problem-solving|kindness|patience,0,,,"IQ measures your cognitive capacity, which directly relates to how well you can solve problems or learn new things. Kindness and patience are character traits that fall under emotional intelligence."
@@ -24,20 +24,20 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 23,5,select_blank,exercise,22,EQ improves with regular ___.,practice|luck|genetics,0,,,"Like any skill, emotional intelligence improves by actively practicing self-awareness and managing your emotions over time. Luck or genetics might play a role, but consistent practice is the key driver for improvement."
 24,5,multiple_choice,exercise,22,What is EQ most like?,Trainable skill|Fixed trait|Test score,0,,,"EQ is best viewed as a trainable skill because it involves learning how to recognize and manage feelings, rather than being an inherent trait or a single score on a test."
 25,5,true_false,exercise,22,Someone can genuinely improve their EQ over time.,,true,,,"Yes, the core concept of emotional intelligence is that it can be improved with effort. It's not static; continuous self-reflection makes a real difference."
-26,6,true_false,preview,27,Naming a feeling precisely makes it easier to handle.,,true,,,
+26,6,true_false,preview,27,Naming a feeling precisely makes it easier to handle.,,true,,,"True. A precise name, such as ""disappointed"" instead of ""bad"", makes a feeling easier to understand and handle."
 27,6,multiple_choice,main,,Why name an emotion precisely instead of vaguely?,Easier handling|Sounds smart|Takes longer,0,,,"For example, swap a vague word like ""bad"" for the precise feeling underneath, like disappointed or overwhelmed."
 28,6,true_false,exercise,27,"""Bad"" is a precise emotional label.",,false,,,"It is vague; a precise label names the specific feeling, like disappointed or anxious."
-29,6,select_blank,exercise,27,Naming an emotion precisely makes it easier to ___.,handle|ignore|hide,0,,,
-30,6,multiple_choice,exercise,27,"Give a more precise word than ""bad.""",Disappointed|Fine|Okay,0,,,
-31,7,true_false,preview,32,Your body can signal an emotion first.,,true,,,
+29,6,select_blank,exercise,27,Naming an emotion precisely makes it easier to ___.,handle|ignore|hide,0,,,"Naming an emotion precisely makes it easier to handle, because a clear label points to what you need."
+30,6,multiple_choice,exercise,27,"Give a more precise word than ""bad.""",Disappointed|Fine|Okay,0,,,"""Disappointed"" is more precise than ""bad"": it says what kind of unpleasant feeling it is."
+31,7,true_false,preview,32,Your body can signal an emotion first.,,true,,,"True. Your body, such as a racing heart or tense shoulders, can react before you consciously notice the emotion."
 32,7,multiple_choice,main,,What can signal an emotion before you name it?,Your body|Your calendar|Your inbox,0,,,"Your body often signals first — a tight chest, a clenched jaw — before your conscious mind names the feeling."
-33,7,true_false,exercise,32,A tight chest can signal an emotion.,,true,,,
-34,7,select_blank,exercise,32,Physical signals can come ___ you notice the feeling.,before|after only|never before,0,,,
-35,7,multiple_choice,exercise,32,Give an example physical signal.,Clenched jaw|Calendar alert|An email,0,,,
-36,8,true_false,preview,37,A trigger reliably sets off the same strong reaction.,,true,,,
+33,7,true_false,exercise,32,A tight chest can signal an emotion.,,true,,,"True. A tight chest is a physical signal that an emotion, such as anxiety, may be building."
+34,7,select_blank,exercise,32,Physical signals can come ___ you notice the feeling.,before|after only|never before,0,,,"Physical signals can come before you notice the feeling, which is why paying attention to your body helps."
+35,7,multiple_choice,exercise,32,Give an example physical signal.,Clenched jaw|Calendar alert|An email,0,,,"A clenched jaw is one physical signal; others are a racing heart, tight shoulders or a knot in the stomach."
+36,8,true_false,preview,37,A trigger reliably sets off the same strong reaction.,,true,,,True. A trigger is something that reliably sets off the same strong reaction in you.
 37,8,multiple_choice,main,,What is a trigger?,Reliable setoff|Random mood|Weekly meeting,0,,,Spotting the pattern is the first step to managing a trigger.
-38,8,true_false,exercise,37,Spotting a trigger's pattern is the first step.,,true,,,
-39,8,select_blank,exercise,37,A trigger reliably sets off a strong ___.,reaction|meeting|calendar,0,,,
+38,8,true_false,exercise,37,Spotting a trigger's pattern is the first step.,,true,,,True. Noticing the pattern in what sets you off is the first step to changing how you respond.
+39,8,select_blank,exercise,37,A trigger reliably sets off a strong ___.,reaction|meeting|calendar,0,,,"A trigger reliably sets off a strong reaction, often the same one each time."
 40,8,multiple_choice,exercise,37,What makes something a trigger rather than a mood?,Repeats reliably|Is random|Never happens,0,,,"A trigger is something that reliably causes a specific reaction, so the key characteristic is its predictability."
 41,9,true_false,preview,42,A blind spot is a weakness you cannot see.,,true,,,That's exactly right; it refers to an area of weakness or blind spot that you are unaware of yourself.
 42,9,multiple_choice,main,,What is a blind spot?,Unseen weakness|Known strength|Random guess,0,,,"A blind spot is a weakness you genuinely can't see in yourself — which is exactly why honest outside feedback matters, since it reveals gaps you'd otherwise miss."
@@ -92,12 +92,12 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 91,19,true_false,preview,92,"Useful optimism focuses on moving forward, not denial.",,true,,,"Useful optimism means acknowledging reality while still focusing energy on constructive action, which is different from simply ignoring difficult truths (denial)."
 92,19,multiple_choice,main,,What does useful optimism focus on?,Moving forward|Denying it|Blaming others,0,,,"The focus of useful optimism is maintaining a positive outlook that directs your energy toward solutions and progress, rather than dwelling on blame or denial."
 93,19,true_false,exercise,92,Optimism means ignoring that a setback happened.,,false,,,"It means explaining it in a way that keeps you moving, not denying it."
-94,19,select_blank,exercise,92,How you ___ a setback shapes what comes next.,explain|delete|hide,0,,,
-95,19,multiple_choice,exercise,92,What does useful optimism avoid?,Denial|Honesty|Moving forward,0,,,
-96,20,true_false,preview,97,Follow-through means keeping a promise to yourself.,,true,,,
+94,19,select_blank,exercise,92,How you ___ a setback shapes what comes next.,explain|delete|hide,0,,,How you explain a setback shapes what comes next: a fair explanation leaves room to try again.
+95,19,multiple_choice,exercise,92,What does useful optimism avoid?,Denial|Honesty|Moving forward,0,,,Useful optimism avoids denial: it admits the problem is real while still believing you can act on it.
+96,20,true_false,preview,97,Follow-through means keeping a promise to yourself.,,true,,,"True. Follow-through means doing what you told yourself you would do, even when it is hard."
 97,20,multiple_choice,main,,What does follow-through require?,Kept promise|Instant results|Peer pressure,0,,,"Follow-through means keeping a promise to yourself, even after the initial burst of motivation has faded."
-98,20,true_false,exercise,97,Motivation never fades before a goal is done.,,false,,,
-99,20,select_blank,exercise,97,Follow-through continues after motivation ___.,fades|arrives|doubles,0,,,
+98,20,true_false,exercise,97,Motivation never fades before a goal is done.,,false,,,"False. Motivation often fades before a goal is done, which is why follow-through matters."
+99,20,select_blank,exercise,97,Follow-through continues after motivation ___.,fades|arrives|doubles,0,,,"Follow-through continues after motivation fades, relying on habits and plans rather than on feeling inspired."
 100,20,multiple_choice,exercise,97,Who is the promise made to in follow-through?,Yourself|A stranger|No one,0,,,"The commitment to follow through is fundamentally a promise you make to your future self; if you don't honor it, you undermine your own goals."
 101,21,true_false,preview,102,"Cognitive empathy means understanding, not feeling, an emotion.",,true,,,Cognitive empathy is the intellectual ability to understand another person's feelings from their perspective without needing to experience them yourself.
 102,21,select_blank,main,,___ empathy understands; emotional empathy feels it too.,Cognitive|Emotional|Social|Basic,0,,,"If you are simply understanding someone else’s emotions intellectually, that is cognitive empathy; if you feel those emotions alongside them, it is emotional empathy."
@@ -131,7 +131,7 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 130,26,multiple_choice,exercise,127,What does matching energy help with?,Building rapport|Ending fast|Winning debates,0,,,"Matching someone’s energy—whether that means mirroring their pace or tone—shows empathy and makes them feel understood, which is the core of building rapport. It's about connection, not winning a debate."
 131,27,true_false,preview,132,Good feedback focuses on specific behavior.,,true,,,"Yes, focusing on a concrete action or behavior makes the feedback actionable and less confrontational than vague statements about character flaws."
 132,27,multiple_choice,main,,What should feedback focus on?,Specific behavior|Vague vibes|Personality flaws,0,,,"Good feedback is aimed at helping someone improve, not just venting frustration."
-133,27,true_false,exercise,132,Good feedback aims to help someone improve.,,true,,,
+133,27,true_false,exercise,132,Good feedback aims to help someone improve.,,true,,,"True. Good feedback aims to help the other person improve, not to criticize or score points."
 134,27,select_blank,exercise,132,"Feedback should target behavior, not ___.",personality|effort|impact,0,,,"You need to critique what someone *did*, never who they are; attacking their personality is unhelpful and guarantees defensiveness. Keeping it focused on behavior keeps the conversation constructive."
 135,27,multiple_choice,exercise,132,What is feedback not meant to be?,Venting|Specific|Helpful,0,,,"Feedback must be actionable and helpful, so if it's just an uncontrolled release of frustration or 'venting,' it lacks focus and won't lead to any actual improvement."
 136,28,true_false,preview,137,Pause before reacting to hard feedback.,,true,,,Pausing gives you time to process the feedback rationally instead of reacting immediately out of surprise or defensiveness.
@@ -194,12 +194,12 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 193,39,select_blank,exercise,192,Being emotional is not the same as low ___.,EQ|volume|energy,0,,,"High EQ means you are aware of and skilled at managing your emotions; therefore, being highly emotional doesn't automatically mean you have poor self-regulation skills."
 194,39,multiple_choice,exercise,192,What is a common EQ myth?,Always nice|Fixed forever|Only extroverts,0,,,Emotional intelligence isn't about being nice all the time; it’s a complex skill that needs practice and can be developed throughout life.
 195,39,true_false,exercise,192,A highly emotional person can still have high EQ.,,true,,,"Having strong emotions is normal, but high EQ means you can manage those feelings effectively rather than just experiencing them intensely."
-196,40,true_false,preview,197,Track your EQ growth by noticing real progress.,,true,,,
+196,40,true_false,preview,197,Track your EQ growth by noticing real progress.,,true,,,"True. Noticing real, specific progress is a reliable way to track your EQ growth."
 197,40,multiple_choice,main,,What should you look for in your own growth?,Real progress|Perfection|Nothing,0,,,Look for real progress in how you handle emotions over time — not perfection.
 198,40,true_false,exercise,197,EQ growth means never feeling a difficult emotion again.,,false,,,"Growth is about handling emotions better over time, not eliminating them."
 199,40,select_blank,exercise,197,"Track progress ___, not perfection.",over time|once|never,0,,,"Focusing on tracking progress over time helps build momentum and recognize growth, whereas aiming for perfection or only focusing once can be overwhelming or inaccurate."
 200,40,multiple_choice,exercise,197,What is a reasonable goal for EQ growth?,Steady improvement|Instant mastery|No change,0,,,"EQ is a skill set that improves gradually with effort; expecting instant mastery is unrealistic, and the goal isn't to maintain no change."
-201,1,multiple_choice,exercise,2,The ability to manage emotions is called:,Emotional intelligence|Physical fitness|Time management,0,,,
+201,1,multiple_choice,exercise,2,The ability to manage emotions is called:,Emotional intelligence|Physical fitness|Time management,0,,,"Emotional intelligence is the ability to notice, understand and manage emotions, yours and other people's."
 202,3,multiple_choice,exercise,12,What does EQ predict about working with others?,Teamwork|Conflict|Isolation,0,,,"Because EQ involves understanding emotions and perspectives, it naturally improves your ability to collaborate and work effectively in a team setting. This makes you better at cooperation than managing conflict or staying isolated."
 203,5,select_blank,exercise,22,"EQ is a trainable ___, not a fixed trait.",skill|flaw|title,0,,,"EQ is fundamentally a skill set—it involves recognizing and managing emotions—which means you can learn to improve it, unlike a fixed title or flaw."
 204,9,multi_select,exercise,42,Which apply to blind spots?,Self-unseen|Feedback reveals|Easily self-seen,0|1,,,"Blind spots are things we genuinely cannot see ourselves (self-unseen), which is why external feedback from others is necessary to reveal them."
