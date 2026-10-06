@@ -220,3 +220,48 @@ id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,ex
 219,41,match_pairs,exercise,218,Pair every term with its gloss.,Useful optimism↔Keeps you moving|Cognitive empathy↔Understanding their feelings|Emotional empathy↔Feeling their feelings|Nonverbal cue↔Signal without words,,,,Each term is paired with its plain-language meaning.
 220,41,match_pairs,exercise,218,Which meaning fits each term?,Nonverbal cue↔Signal without words|Perspective-taking↔Their viewpoint|Empathy fatigue↔Exhaustion from absorbing|Ethical persuasion↔Honest arguments,,,,Each term is paired with its plain-language meaning.
 221,41,match_pairs,exercise,218,Connect the terms to what they mean.,Ethical persuasion↔Honest arguments|Team emotional climate↔Team's shared mood|Emotional contagion↔Mood that spreads|Goleman↔Popularized emotional intelligence,,,,Each term is paired with its plain-language meaning.
+222,1,multiple_choice,exam,,Emotional intelligence involves noticing and managing:,Emotions|Deadlines|Finances,0,,,It applies to your own emotions and other people's.
+223,2,multiple_choice,exam,,Goleman's model has how many EQ domains?,Six|Four|Two,1,,,"The domains are self-awareness, self-management, social awareness and relationship management."
+224,2,true_false,exam,,Time management is one of the four EQ domains.,,false,,,"The domains are self-awareness, self-management, social awareness and relationship management."
+225,3,multiple_choice,exam,,Which predicts teamwork better?,EQ|IQ|Both equally,0,,,IQ predicts raw problem-solving ability.
+226,3,true_false,exam,,EQ predicts how well you handle pressure.,,true,,,It also predicts how well you work with others.
+227,4,multiple_choice,exam,,A strong emotion can briefly override:,Basic hearing|Physical balance|Clear thinking,2,,,A heated moment is rarely the best time for a big decision.
+228,5,multiple_choice,exam,,EQ is best described as a:,Trainable skill|Fixed trait|Rare talent,0,,,"You build it with practice, like any other skill."
+229,5,true_false,exam,,EQ is fixed at birth.,,false,,,It is a skill you can train.
+230,6,multiple_choice,exam,,Naming a feeling precisely makes it:,Invisible|Louder|Manageable,2,,,Disappointed or overwhelmed is easier to work with than bad.
+231,7,multiple_choice,exam,,What can signal an emotion first?,Your body|Your calendar|Your phone,0,,,A tight chest or clenched jaw often comes before the name.
+232,8,multiple_choice,exam,,A trigger sets off a reliably:,Funny memory|Strong reaction|Quiet mood,1,,,Spotting the pattern is the first step to managing it.
+233,9,multiple_choice,exam,,A blind spot is a weakness you:,Cannot fix|Cannot hide|Cannot see,2,,,That is why honest outside feedback helps.
+234,10,multiple_choice,exam,,Regular journaling helps you notice:,Patterns|Deadlines|Passwords,0,,,You spot reactions you would miss in the moment.
+235,11,multiple_choice,exam,,Pausing before reacting gives you a:,Reward|Choice|Delay,1,,,It creates the mental space to choose a thoughtful response.
+236,12,multiple_choice,exam,,Reframing looks for a more:,Cheerful story|Distant memory|Accurate view,2,,,It is not denial or forced positivity.
+237,13,multiple_choice,exam,,Managed anger is expressed:,Calmly|Loudly|Never,0,,,Bottled-up anger tends to leak out later.
+238,14,multiple_choice,exam,,Which technique helps in-the-moment anxiety?,Skipping meals|Slow breathing|Fast scrolling,1,,,Grounding your senses also steadies you.
+239,15,multiple_choice,exam,,Resilience helps you recover from:,Holidays|Promotions|Setbacks,2,,,You bounce back more quickly.
+240,16,multiple_choice,exam,,Delaying gratification picks a later:,Better reward|Easier reward|Smaller reward,0,,,It is a core piece of self-regulation.
+241,17,multiple_choice,exam,,Intrinsic motivation comes from:,Rivals|Within|Rewards,1,,,Extrinsic motivation comes from outside.
+242,17,true_false,exam,,Extrinsic motivation is driven by an internal source.,,false,,,That describes intrinsic motivation.
+243,18,multiple_choice,exam,,Goals stick best when they feel:,Personal|Easy|Public,0,,,They tap into your core values.
+244,19,multiple_choice,exam,,Useful optimism focuses on moving:,Away|Forward|Slowly,1,,,"It directs energy toward solutions, not denial."
+245,20,multiple_choice,exam,,Follow-through means keeping a promise to:,Strangers|Rivals|Yourself,2,,,It continues after the initial burst of motivation fades.
+246,21,multiple_choice,exam,,Cognitive empathy means you:,Understand|Feel|Avoid,0,,,Emotional empathy feels it too.
+247,21,true_false,exam,,"Emotional empathy only understands, without feeling.",,false,,,That describes cognitive empathy.
+248,22,multiple_choice,exam,,The goal of active listening is:,Replying|Winning|Understanding,2,,,It is not waiting for your turn to speak.
+249,23,multiple_choice,exam,,Which is a nonverbal cue?,Posture|Spelling|Vocabulary,0,,,Tone and facial expression often say more than words.
+250,24,multiple_choice,exam,,Perspective-taking tries on someone's:,Reputation|Point of view|Job title,1,,,It is not just imagining how you would feel.
+251,25,multiple_choice,exam,,Constant empathy can lead to:,Boredom|Confidence|Fatigue,2,,,Protecting your emotional space keeps empathy sustainable.
+252,26,multiple_choice,exam,,Which habit builds rapport?,Eye contact|Interrupting|Checking email,0,,,Remembering names and matching energy also help.
+253,27,multiple_choice,exam,,Good feedback focuses on specific:,Rumours|Behavior|Character,1,,,It is aimed at helping someone improve.
+254,28,multiple_choice,exam,,"Before reacting to criticism, you should:",Defend|Counter|Pause,2,,,Pausing lets you consider whether it is true.
+255,29,multiple_choice,exam,,What turns a disagreement into a fight?,Personal attacks|Honest questions|Short breaks,0,,,They target identity rather than behavior.
+256,30,multiple_choice,exam,,Ethical persuasion relies on honest:,Flattery|Reasons|Pressure,1,,,The other person can make an informed choice.
+257,31,multiple_choice,exam,,Reading the room senses the group's:,Salary|Schedule|Mood,2,,,It is the general emotional tone of everyone present.
+258,32,multiple_choice,exam,,Good leaders manage team feelings and:,Tasks|Budgets only|Rivals,0,,,Ignoring feelings usually hurts morale.
+259,33,multiple_choice,exam,,Noticing a manager's stress helps your:,Title|Timing|Salary,1,,,You know when to approach them.
+260,34,multiple_choice,exam,,Team emotional climate is the group's shared:,Budget|Schedule|Mood,2,,,One anxious member can pull the whole team down.
+261,35,multiple_choice,exam,,A hard topic should be raised:,Calmly|Angrily|Indirectly,0,,,"Stay on the specific issue, not the person."
+262,36,multiple_choice,exam,,Unmanaged urgency can hijack your:,Sleep|Thinking|Salary,1,,,Notice the urgency without letting it take over.
+263,37,multiple_choice,exam,,Emotional contagion is one person's mood:,Fading|Hiding|Spreading,2,,,A mood can pass through a room without a word.
+264,38,multiple_choice,exam,,"Across cultures, the same emotion can differ in:",Expression|Biology|Existence,0,,,Read expression with that context in mind.
+265,39,true_false,exam,,Being nice always means having high EQ.,,false,,,"High EQ means handling emotions well, not always being agreeable."
+266,40,multiple_choice,exam,,"In your EQ growth, look for real:",Perfection|Rankings|Progress,2,,,Notice how you handle emotions over time.
