@@ -3,29 +3,29 @@
 **Covers:** Ethical persuasion, Team emotional climate, Emotional contagion
 
 ## Moods spread, and so does influence {#overview}
-You rarely act alone. People in a team affect each other's feelings, and the combined mood affects how well everyone works. You can also influence others' decisions. Used well, this helps a team do its best work. Used badly, it is manipulation. This article covers the shared mood of a group, how it spreads and the line between honest persuasion and pressure.
+Think of a time you walked into a room and felt the tension before anyone spoke. You were not imagining it. People in a team affect each other's feelings, and the combined mood changes how well everyone works. You also affect how others decide things. Used well, that influence helps a team do its best work. Used badly, it becomes manipulation. Let's look at how a group's mood spreads, how to shape it, and where honest persuasion ends and pressure begins.
 
 ## Emotional contagion {#emotional-contagion}
-Emotional contagion is the way one person's mood, good or bad, spreads through a room or a team without anyone saying a word about it. People copy each other's facial expressions, tone and posture automatically, and this copying brings the feelings with it.
+Have you ever caught a yawn, or found yourself smiling because someone else was? Moods travel in the same way. One person's mood, good or bad, can pass through a room or a team without anyone saying a word about it. The reason is that people copy each other's facial expressions, tone and posture automatically, and the copying brings the feelings along.
 
-Researchers Elaine Hatfield, John Cacioppo and Richard Rapson described the effect in the 1990s. In a well-known 2002 study by Sigal Barsade, groups that had one actor displaying a positive mood during a task ended up more cooperative than those with a negative actor. People copy those they watch most closely, which often means the person leading the meeting. So the way you arrive at a meeting is a form of communication.
+Researchers Elaine Hatfield, John Cacioppo and Richard Rapson described the effect in the 1990s. In a well-known 2002 study by Sigal Barsade, groups that had one actor displaying a positive mood during a task ended up more cooperative than those with a negative actor. We tend to copy the people we watch most closely, and that is often the person leading the meeting. So the way you arrive at a meeting is already a message.
 
 ## Team emotional climate {#team-emotional-climate}
-Team emotional climate is the shared overall mood of a team, shaped by everyone in it. It is a stable pattern, such as "tense and careful", "relaxed and open" or "anxious and silent", not the passing mood of a single day. One anxious or hostile person can pull the whole climate down, and one calm and generous person can lift it.
+A single mood passes. A team also has a mood that lasts, and it is shaped by everyone in it. That is its emotional climate. You might describe one as "tense and careful", "relaxed and open" or "anxious and silent". It is a stable pattern, not the weather of one day. One anxious or hostile person can pull the whole climate down, and one calm and generous person can lift it.
 
-The climate affects what people dare to say, how fast problems get reported and how well the group solves them. A good climate does not mean everyone is happy all the time. It means people feel able to be honest, disagree and recover from stress.
+The climate decides what people dare to say, how fast problems get reported and how well the group solves them. A good climate does not mean everyone is happy all the time. It means people feel able to be honest, to disagree and to recover from stress.
 
-You can influence it with small habits: begin meetings by checking in, thank people for bad news, respond to mistakes with curiosity, and notice when the mood changes.
+You can shape it with small habits. Begin meetings by checking in. Thank people for bad news. Respond to mistakes with curiosity. Notice when the mood changes.
 
 ## Ethical persuasion {#ethical-persuasion}
-Ethical persuasion is convincing someone with honest reasons and genuine arguments, such as real trade-offs and evidence, instead of manipulation such as guilt, fake urgency or hidden pressure. The target should be free to say no and to understand how you tried to influence them.
+Sooner or later you will want to change someone's mind. The question is how. Honest persuasion gives real reasons and genuine arguments, such as real trade-offs and evidence. Manipulation uses guilt, fake urgency or hidden pressure. The difference lies in freedom: the other person should be able to say no, and to understand how you tried to influence them.
 
-A simple test is transparency: would I be comfortable if they knew exactly what I was doing and why? Honest persuasion passes. Manipulation does not.
+Here is a test you can use on the spot. Ask yourself, "Would I be comfortable if they knew exactly what I was doing and why?" Honest persuasion passes. Manipulation does not.
 
-The psychologist Robert Cialdini described six common levers of influence: reciprocity, commitment, social proof, authority, liking and scarcity. They can all be used honestly, as in "three other teams switched and saved time, here are their numbers", or dishonestly, as in "only two places left" when that is false.
+The psychologist Robert Cialdini described six common levers of influence: reciprocity, commitment, social proof, authority, liking and scarcity. Each can be used honestly, as in "three other teams switched and saved time, here are their numbers". Each can also be used dishonestly, as in "only two places left" when that is false.
 
 ## A worked example {#example}
-You want your team to adopt a new review process. Compare two approaches.
+Say you want your team to adopt a new review process. Let's compare two ways to ask.
 
 | | Manipulative | Ethical |
 |---|---|---|
@@ -35,12 +35,14 @@ You want your team to adopt a new review process. Compare two approaches.
 | Choice | "Sign up now or be left behind." | "Try it for a month. We can stop if it fails." |
 | Passes the transparency test? | No | Yes |
 
-Calculate the claim: 3 days down to 2 days is a 33 percent reduction. Say 33 percent, not "half".
+Now check the claim in the ethical column. Going from 3 days to 2 days removes 1 day out of 3, which is one third, or 33 percent. So we say 33 percent, not "half".
 
-At the same time, watch the climate. If your announcement makes people tense, that tension will spread to the others by contagion. A calm tone and a clear, honest message protect both the decision and the mood.
+Then watch the climate. If your announcement makes people tense, that tension will spread to others by contagion. A calm tone and an honest message protect both the decision and the mood.
 
 ## A common mistake {#mistake}
-Ignoring your own mood as a leader or teammate. If you arrive angry, people pick it up without a word being said. Another mistake is to treat persuasion as a trick. If you have to hide something for it to work, it has already crossed the line.
+A common slip is to ignore your own mood as a leader or teammate. If you arrive angry, people pick it up without a word being said.
+
+A second slip is to treat persuasion as a trick. If you have to hide something for your argument to work, it has already crossed the line.
 
 ## Key points {#key-points}
 - Emotional contagion means moods spread through copying expressions and tone.
